@@ -6,3 +6,5 @@ Features:
 - diffuse, specular and ambient (kind of) shading
 - objects within the scene: spheres, planes
 - adjustable FOV and size of the generated RGB image
+
+![alt tag](https://github.com/dawid-woj/raytracer/blob/master/raytracer.png)
